@@ -89,9 +89,13 @@ Models are evaluated based on:
 The best-performing model will be selected based on these metrics. -->
 
 ## 📝 Future Work
-- Hyperparameter tuning for optimized model performance
-- Integration of more advanced models like Neural Networks
-- Deployment of the best model using Flask or Streamlit for a user-friendly interface
+. Web Application Deployment: Deploy the model using Flask or Streamlit to create an interactive web-based tool that can be used by healthcare professionals or patients for real-time diabetes risk prediction.
+. Feature Engineering: Investigate additional features such as family history, diet, and lifestyle factors to enhance prediction accuracy.
+. Hyperparameter Optimization: Utilize Grid Search or Randomized Search techniques to fine-tune hyperparameters and further improve model performance.
+. Model Ensemble: Implement ensemble techniques such as Stacking or Bagging to combine multiple models and improve robustness.
+. Model Interpretability: Use SHAP or LIME to provide explanations for individual predictions, making the model more transparent and understandable.
+
+
 <!-- 
 ## 📬 Contact
 For questions or feedback, please contact:
